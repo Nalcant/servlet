@@ -1,4 +1,4 @@
-# MyApp - Java Servlet Application
+# Exemplo Java Servlet
 
 Este é um exemplo de aplicação web usando Java Servlets e Maven.
 
