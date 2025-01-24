@@ -1,0 +1,19 @@
+# MyApp - Java Servlet Application
+
+Este é um exemplo de aplicação web usando Java Servlets e Maven.
+
+## Estrutura do Projeto
+- `src/main/java`: Código-fonte principal.
+- `src/main/webapp`: Arquivos web (HTML, XML e configurações).
+- `src/test/java`: Testes da aplicação.
+- `pom.xml`: Arquivo de configuração do Maven.
+
+## Como Rodar
+1. Compile o projeto com `mvn clean install`.
+2. Implante no Tomcat (ou outro servidor compatível com Java Servlet).
+3. Acesse via navegador em `http://localhost:8080/MyApp`.
+
+## Tecnologias Utilizadas
+- Java 17+
+- Maven
+- Jakarta Servlets
